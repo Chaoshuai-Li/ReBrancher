@@ -2,7 +2,7 @@
 
 ---
 
-[![Watch the video](https://img.@*-*@.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://github.com/Chaoshuai-Li/ReSwitcher/blob/main/reswitcher.png)](https://www.youtube.com/watch?v=utdHUQjI1Vo)
 
 **The conditional branching statements commonly used by developers is a runtime decision-making construct that can deal with multiple conditional expressions and the collection of corresponding execution statements, including if-else statements and switch statements.**
 
