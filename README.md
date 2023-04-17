@@ -2,6 +2,8 @@
 
 ---
 
+[![Watch the video](https://img.@*-*@.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
 **The conditional branching statements commonly used by developers is a runtime decision-making construct that can deal with multiple conditional expressions and the collection of corresponding execution statements, including if-else statements and switch statements.**
 
 **However, they are becoming harder to review with repeated execution branches and deeply nested conditional clauses as the software life cycle evolves. With JDK 14 officially allowing removing default the fall-through semantic and supporting switch expressions, refactoring the existing conditional branching statements would be extremely valuable to developers. Existing efforts have not focused on these refactorings, which are obviously time-consuming and omission-prone to do manually.**
