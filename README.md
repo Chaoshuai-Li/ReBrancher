@@ -14,8 +14,7 @@ Steps for importing to Eclipse IDE.
 
 "Open Eclipse IDE" -> "Help" -> "Install New Software" -> "Add" -> "Archive" -> Select the Zip file in your path -> "Select All" -> "Next" -> Accept and Finish
 
-However, according to feedback from others, the following __"The chosen file is not enable"__ exists when selecting a project to refactor after importing the plugin .
-
+However, according to feedback from some, the following __"The chosen file is not enable"__ exists when selecting a project to refactor after importing the plugin.
 The reasons for this are as follows: 1) The static analysis tool is not robust enough in terms of environment configuration requirements for refactoring scenarios involving switch expression refactoring for JDK14 onwards. 2) The graphical tool Graphviz is prone to crashes and can easily lead to the unavailability of plugins when encapsulated into plugins. (We are working on this issue, so please understand and stay tuned.)
 
 Below is the video of the __ReBrancher__ usage process and refactoring preview.
