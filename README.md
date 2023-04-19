@@ -16,12 +16,12 @@ Steps for importing to Eclipse IDE.
 
 However, according to feedback from others, the following __"The chosen file is not enable"__ exists when selecting a project to refactor after importing the plugin .
 
-The reasons for this are as follows: 1) The static analysis tool is not robust enough in terms of environment configuration requirements for refactoring scenarios involving switch expression refactoring for JDK14 onwards. 2) The graphical tool Graphviz is prone to crashes and can easily lead to the unavailability of plugins when encapsulated into plugins.
+The reasons for this are as follows: 1) The static analysis tool is not robust enough in terms of environment configuration requirements for refactoring scenarios involving switch expression refactoring for JDK14 onwards. 2) The graphical tool Graphviz is prone to crashes and can easily lead to the unavailability of plugins when encapsulated into plugins. (We are working on this issue, so please understand and stay tuned.)
 
-We are working on this issue, so please understand and stay tuned.
+Below is the video of the __ReBrancher__ usage process and refactoring preview.
 
-We are recording ReBrancher available videos locally to show it
+[![Watch the video](https://github.com/Chaoshuai-Li/ReSwitcher/blob/main/ReBrancher.png)](https://youtu.be/rq0bMti9fV4)
 
-Below are the available videos and repositories for our previous work on __ReSwitcher__, which you can sample [here](https://github.com/Chaoshuai-Li/ReSwitcher-Plugin).
+Below are the available videos and repositories for our previous work on __ReSwitcher__, which you can sample [__here__](https://github.com/Chaoshuai-Li/ReSwitcher-Plugin).
 
 [![Watch the video](https://github.com/Chaoshuai-Li/ReSwitcher/blob/main/reswitcher.png)](https://www.youtube.com/watch?v=utdHUQjI1Vo)
